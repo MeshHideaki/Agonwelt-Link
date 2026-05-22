@@ -73,6 +73,13 @@ Gossamer-Link:
 - Not designed for benchmarks or direct model replacement
 - Open to collaboration and forking
 
+Created by Hideaki Sato (MeshHideaki).
+
+This project is highly experimental.  
+Feel free to explore, modify, and experiment with it.
+
+Attribution is always appreciated.
+
 ---
 
 **"Intelligence evolves through structure."**
