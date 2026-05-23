@@ -1,0 +1,44 @@
+--- RUN #1 ---
+inheritance_reuse_rate: 0.459779
+adaptive_novelty_rate: 0.723705
+coevolution_balance_score: 0.736075
+lineage_decay_rate: 0.806563
+continuity_strength: 0.71081
+structural_diversity: 1.0
+recovery_success_rate: 0.717143
+adaptive_coevolution_variance: 0.000212
+average_persistence: 79.449093
+mean_variance: 0.021621
+trust_range: 0.563452
+validation_result: False
+
+--- RUN #2 ---
+inheritance_reuse_rate: 0.461373
+adaptive_novelty_rate: 0.721916
+coevolution_balance_score: 0.739456
+lineage_decay_rate: 0.806328
+continuity_strength: 0.711992
+structural_diversity: 1.0
+recovery_success_rate: 0.721429
+adaptive_coevolution_variance: 0.000218
+average_persistence: 78.857721
+mean_variance: 0.021317
+trust_range: 0.646607
+validation_result: False
+
+--- RUN #3 ---
+inheritance_reuse_rate: 0.462536
+adaptive_novelty_rate: 0.723704
+coevolution_balance_score: 0.738833
+lineage_decay_rate: 0.806978
+continuity_strength: 0.710604
+structural_diversity: 1.0
+recovery_success_rate: 0.715714
+adaptive_coevolution_variance: 0.000194
+average_persistence: 79.055415
+mean_variance: 0.021549
+trust_range: 0.656958
+validation_result: False
+
+final_result:
+NOT ACHIEVED
