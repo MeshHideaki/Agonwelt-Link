@@ -1,0 +1,44 @@
+--- RUN #1 ---
+average_environmental_fitness: 0.739277
+topology_survival_rate: 0.744985
+adaptive_decay_rate: 0.040207
+recovery_success_rate: 0.709881
+continuity_strength: 0.786455
+structural_diversity: 0.916667
+reusable_structure_ratio: 0.544444
+adaptive_selection_variance: 0.001287
+average_persistence: 80.0
+mean_variance: 0.021411
+trust_range: 0.715876
+validation_result: True
+
+--- RUN #2 ---
+average_environmental_fitness: 0.742281
+topology_survival_rate: 0.759847
+adaptive_decay_rate: 0.037142
+recovery_success_rate: 0.717976
+continuity_strength: 0.787121
+structural_diversity: 0.75
+reusable_structure_ratio: 0.75
+adaptive_selection_variance: 0.001349
+average_persistence: 80.0
+mean_variance: 0.021799
+trust_range: 0.783623
+validation_result: True
+
+--- RUN #3 ---
+average_environmental_fitness: 0.743245
+topology_survival_rate: 0.73529
+adaptive_decay_rate: 0.044798
+recovery_success_rate: 0.704881
+continuity_strength: 0.787638
+structural_diversity: 0.666667
+reusable_structure_ratio: 0.616667
+adaptive_selection_variance: 0.001413
+average_persistence: 79.9
+mean_variance: 0.02184
+trust_range: 0.657442
+validation_result: True
+
+final_result:
+ACHIEVED
