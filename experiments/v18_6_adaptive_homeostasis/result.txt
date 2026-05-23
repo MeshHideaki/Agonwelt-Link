@@ -1,0 +1,50 @@
+--- RUN #1 ---
+adaptive_equilibrium_score: 0.910208
+persistence_regulation_score: 0.70874
+homeostatic_stability: 0.909411
+adaptive_drift_rate: 0.044383
+inheritance_reuse_rate: 0.414422
+adaptive_novelty_rate: 0.374756
+continuity_strength: 0.689911
+recovery_success_rate: 0.723095
+structural_diversity: 1.0
+adaptive_homeostasis_variance: 7.8e-05
+average_persistence: 39.421148
+mean_variance: 0.020382
+trust_range: 0.639767
+validation_result: True
+
+--- RUN #2 ---
+adaptive_equilibrium_score: 0.910001
+persistence_regulation_score: 0.713763
+homeostatic_stability: 0.911077
+adaptive_drift_rate: 0.044725
+inheritance_reuse_rate: 0.414825
+adaptive_novelty_rate: 0.374688
+continuity_strength: 0.697296
+recovery_success_rate: 0.715952
+structural_diversity: 1.0
+adaptive_homeostasis_variance: 7.8e-05
+average_persistence: 37.779817
+mean_variance: 0.021098
+trust_range: 0.763477
+validation_result: True
+
+--- RUN #3 ---
+adaptive_equilibrium_score: 0.910451
+persistence_regulation_score: 0.710409
+homeostatic_stability: 0.910737
+adaptive_drift_rate: 0.04404
+inheritance_reuse_rate: 0.41486
+adaptive_novelty_rate: 0.375497
+continuity_strength: 0.688462
+recovery_success_rate: 0.71869
+structural_diversity: 1.0
+adaptive_homeostasis_variance: 7.4e-05
+average_persistence: 36.616756
+mean_variance: 0.02037
+trust_range: 0.683957
+validation_result: True
+
+final_result:
+ACHIEVED
