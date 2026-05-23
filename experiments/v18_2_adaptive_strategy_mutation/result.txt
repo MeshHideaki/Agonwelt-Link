@@ -1,0 +1,41 @@
+--- RUN #1 ---
+average_exploration_bias: 0.598167
+average_persistence_bias: 0.686072
+adaptive_mutation_variance: 0.006896
+topology_recovery_rate: 0.297224
+continuity_strength: 0.999991
+structural_diversity: 1.0
+mutation_profile_diversity: 0.082316
+average_persistence: 78.666667
+mean_variance: 0.025728
+trust_range: 0.703982
+validation_result: True
+
+--- RUN #2 ---
+average_exploration_bias: 0.599238
+average_persistence_bias: 0.685786
+adaptive_mutation_variance: 0.00682
+topology_recovery_rate: 0.291799
+continuity_strength: 0.999991
+structural_diversity: 0.916667
+mutation_profile_diversity: 0.081887
+average_persistence: 78.916667
+mean_variance: 0.024757
+trust_range: 0.633766
+validation_result: True
+
+--- RUN #3 ---
+average_exploration_bias: 0.599167
+average_persistence_bias: 0.685643
+adaptive_mutation_variance: 0.00682
+topology_recovery_rate: 0.30281
+continuity_strength: 0.999991
+structural_diversity: 1.0
+mutation_profile_diversity: 0.081881
+average_persistence: 79.333333
+mean_variance: 0.025019
+trust_range: 0.552965
+validation_result: True
+
+final_result:
+ACHIEVED
