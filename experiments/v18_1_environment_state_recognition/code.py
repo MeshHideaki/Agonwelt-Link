@@ -1,4 +1,4 @@
-# experiments/v18_1_environment_state_recognition/simulation.py
+# experiments/v18_1_environment_state_recognition/code.py
 
 import numpy as np
 import random
