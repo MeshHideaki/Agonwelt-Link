@@ -1,85 +1,146 @@
-# Gossamer-Link
+# Agonwelt-Link
 
-**Structure adapts, not weights.**
+**Structures survive through adaptation.**
 
 <div align="center">
-  <a href="Visual_Sequence_01.mp4">
-    <img src="Visual_Sequence_01.gif" alt="Visual_Sequence_01" width="100%">
+  <a href="Agonwelt-Link_v18_Adaptive-Ecology.mp4">
+    <img src="Agonwelt-Link_v18_Adaptive-Ecology.gif" alt="Agonwelt-Link_v18_Adaptive-Ecology" width="100%">
   </a>
   <br>
-  <a href="Visual_Sequence_01.mp4">Visual Sequence 01</a>
+  <a href="Agonwelt-Link_v18_Adaptive-Ecology.mp4">
+    Agonwelt-Link v18 — Adaptive Ecology
+  </a>
 </div>
 
 ---
 
-## What is Gossamer-Link?
+## What is Agonwelt-Link?
 
-Gossamer-Link is an experimental **intelligence layer** that evolves through dynamic structural changes rather than weight optimization.
+Agonwelt-Link is an experimental artificial ecology project focused on:
 
-While conventional AI systems learn by adjusting parameters,  
-Gossamer-Link continuously reorganizes its internal **node connections and local dynamics** in response to stimuli.
+- structural survival
+- collapse and recovery
+- distributed adaptation
+- local environmental interaction
+- fragmented persistence
+
+Rather than optimizing weights or training centralized intelligence,
+Agonwelt-Link explores how structures reorganize, fragment, reconnect, and persist under changing environmental pressure.
+
+---
+
+## Origin of the Name
+
+### Agonwelt
+
+The name is derived from:
+
+- **Agon**  
+  (Greek: struggle, conflict, survival pressure)
+
+- **Umwelt**  
+  (environment / surrounding world)
+
+Meaning:
+
+> A world shaped by struggle and survival.
+
+In Japanese nuance:
+
+> 「死闘環世界」
+
+A tense ecological world where structures continuously struggle to survive.
 
 ---
 
 ## Current Demo (2026.5)
 
-This video shows the core mechanism in action:
+This video demonstrates an evolving structural ecology simulation.
 
-- **Stimulus A (Aggressive)** → Convergence  
-- **Stimulus B (Evasive)** → Divergence  
-- **Stimulus C (Mixed)** → Complex structural formation  
+Some visible elements in the simulation:
 
-**This is not training.**  
-**This is structural adaptation.**
+- **Red membranes**  
+  → environmental damage / hazardous regions
+
+- **Blue rings**  
+  → stable / surviving nodes
+
+- **Gray nodes**  
+  → dormant or dead nodes
+
+- **Green membranes**  
+  → temporary collective groups
+
+- **Pulse waves**  
+  → repair spreading through the structure
+
+- **Torn green membranes**  
+  → groups splitting apart
+
+- **Slow pulsing motion**  
+  → organism-like breathing behavior
+
+This is not traditional AI training.
+
+This is adaptive structural ecology.
 
 ---
 
 ## Current Status
 
-- Single-process simulation
-- Implemented up to **v13 (Security Layer complete)**
-- Verified under stability conditions  
-  (continuous reconfiguration without collapse or full convergence)
-- Security mechanisms integrated  
-  (Sybil resistance, PoW, trust-time dynamics, anomaly detection)
-- Game adaptation prototype was explored but set aside in favor of clearer structural visualization
+- Distributed structural ecology simulation
+- Implemented through **v19 (Distributed Homeostasis complete)**
+- Verified under continuous collapse / recovery conditions
+- Local environmental differentiation implemented
+- Partial collective formation verified
+- Distributed adaptation propagation verified
+- Fragmented persistence stability verified
+- Structural continuity maintained without global synchronization
 
 ---
 
 ## Vision
 
-Gossamer-Link is intended as a foundational layer for:
-- Distributed self-organizing intelligence
-- Adaptive systems (games, social platforms, personal environments, etc.)
-- A new paradigm where intelligence emerges from structure itself
+Agonwelt-Link explores the possibility of:
 
-This repository represents the **minimal viable proof** of the concept.
+- distributed artificial ecology
+- adaptive survival structures
+- non-centralized persistence systems
+- local interaction-driven organization
+- emergent structural continuity
+
+The project focuses on how unstable structures may continue existing through repeated collapse, recovery, fragmentation, and reconnection.
 
 ---
 
 ## Core Philosophy
 
-Traditional AI:  
-→ Learns better answers
+Traditional AI:
 
-Gossamer-Link:  
-→ Changes *how* answers are formed
+→ Optimizes answers
+
+Agonwelt-Link:
+
+→ Explores how structures continue to survive
 
 ---
 
 ## Notes
 
-- Experimental project focused purely on structural dynamics
-- Not designed for benchmarks or direct model replacement
-- Open to collaboration and forking
+- Experimental project focused on adaptive structural ecology
+- Not designed for benchmarks or model replacement
+- Not intended as AGI research
+- Focused on persistence, adaptation, and environmental interaction
+- Open to experimentation, observation, and structural exploration
 
 Created by Hideaki Sato (MeshHideaki).
 
-This project is highly experimental.  
-Feel free to explore, modify, and experiment with it.
+This project is highly experimental.
 
-Attribution is always appreciated.
+Feel free to explore, modify, fork, and experiment with it.
+
+Attribution is appreciated.
 
 ---
 
-**"Intelligence evolves through structure."**
+**"Structures survive through adaptation."**
