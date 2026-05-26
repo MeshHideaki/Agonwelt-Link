@@ -45,12 +45,6 @@ Meaning:
 
 > A world shaped by struggle and survival.
 
-In Japanese nuance:
-
-> 「死闘環世界」
-
-A tense ecological world where structures continuously struggle to survive.
-
 ---
 
 ## Current Demo (2026.5)
