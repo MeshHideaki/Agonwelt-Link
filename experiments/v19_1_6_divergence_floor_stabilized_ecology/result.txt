@@ -1,0 +1,29 @@
+--- RUN #42 ---
+local_adaptation_persistence: 1.4902
+regional_continuity: 0.7413
+distributed_recovery: 0.8752
+ecological_divergence: 0.4599
+structural_persistence: 1.0
+cross_region_instability: 0.2153
+validation_result: True
+
+--- RUN #43 ---
+local_adaptation_persistence: 1.4698
+regional_continuity: 0.7083
+distributed_recovery: 0.8635
+ecological_divergence: 0.3463
+structural_persistence: 1.0
+cross_region_instability: 0.2085
+validation_result: True
+
+--- RUN #44 ---
+local_adaptation_persistence: 1.3636
+regional_continuity: 0.8681
+distributed_recovery: 0.9156
+ecological_divergence: 0.0999
+structural_persistence: 1.0
+cross_region_instability: 0.1157
+validation_result: False
+
+final_result:
+NOT ACHIEVED
