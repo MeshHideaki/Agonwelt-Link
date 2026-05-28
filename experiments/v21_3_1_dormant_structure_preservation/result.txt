@@ -1,0 +1,29 @@
+--- RUN #42 ---
+dormant_structure_persistence: 0.4329
+reactivation_instability: 0.1699
+dormant_contamination_pressure: 0.2471
+fragmented_dormant_decay: 0.2195
+partial_reawakening_success: 0.1793
+cross_structure_dormant_friction: 0.3526
+validation_result: True
+
+--- RUN #43 ---
+dormant_structure_persistence: 0.4512
+reactivation_instability: 0.1629
+dormant_contamination_pressure: 0.2407
+fragmented_dormant_decay: 0.226
+partial_reawakening_success: 0.1732
+cross_structure_dormant_friction: 0.3549
+validation_result: True
+
+--- RUN #44 ---
+dormant_structure_persistence: 0.3354
+reactivation_instability: 0.1653
+dormant_contamination_pressure: 0.2393
+fragmented_dormant_decay: 0.224
+partial_reawakening_success: 0.1585
+cross_structure_dormant_friction: 0.3439
+validation_result: True
+
+final_result:
+ACHIEVED
