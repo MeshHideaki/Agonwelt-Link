@@ -1,0 +1,38 @@
+--- RUN #42 ---
+fragment_recovery_rate: 0.3289
+memory_erosion_rate: 0.6335
+knowledge_fusion_rate: 0.2634
+lineage_inheritance_rate: 0.278
+cultural_compression_rate: 0.424
+civilization_resonance_rate: 0.2913
+memory_circulation_rate: 0.4635
+legacy_dominance_pressure: 0.3704
+memory_contamination_rate: 0.1397
+validation_result: True
+
+--- RUN #43 ---
+fragment_recovery_rate: 0.3122
+memory_erosion_rate: 0.63
+knowledge_fusion_rate: 0.2403
+lineage_inheritance_rate: 0.2561
+cultural_compression_rate: 0.4001
+civilization_resonance_rate: 0.3034
+memory_circulation_rate: 0.4726
+legacy_dominance_pressure: 0.3691
+memory_contamination_rate: 0.1416
+validation_result: True
+
+--- RUN #44 ---
+fragment_recovery_rate: 0.3222
+memory_erosion_rate: 0.629
+knowledge_fusion_rate: 0.2416
+lineage_inheritance_rate: 0.261
+cultural_compression_rate: 0.3962
+civilization_resonance_rate: 0.2686
+memory_circulation_rate: 0.4554
+legacy_dominance_pressure: 0.3813
+memory_contamination_rate: 0.1471
+validation_result: True
+
+final_result:
+ACHIEVED
